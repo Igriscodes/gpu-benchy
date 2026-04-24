@@ -1,4 +1,7 @@
 # gpu-benchy 
+![Python](https://img.shields.io/badge/python-3.6%2B-blue)
+![OpenGL](https://img.shields.io/badge/OpenGL-Legacy-orange)
+![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey)
 
 A lightweight Python CLI tool that benchmarks GPU rendering performance across multiple resolutions using OpenGL and GLFW. Automatically detects available GPUs, runs a fixed-function triangle render test, and reports the highest resolution that maintains **≥30 FPS**.
 
